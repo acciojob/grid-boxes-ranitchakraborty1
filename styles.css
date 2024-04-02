@@ -19,7 +19,6 @@
   grid-column: 1 / 4; 
   grid-row: 2; 
 }
-For the sixth
 #grid div:nth-child(6) {
   grid-column: 1; 
   grid-row: 3; 
