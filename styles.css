@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+body{
+	background-color:green;
+}
 #grid{
 	display:grid;
 	grid-template-columns:repeat(3, 1fr);
